@@ -1,4 +1,4 @@
-# An Intelligent SDN-Based Framework Leveraging Machine Learning to Enhance IoT Performance in Smart Healthcare
+# An Intelligent SDN-Based Framework to Enhance IoT Performance in Smart Healthcare
 
 ## 📌 Project Overview
 This project integrates **Software-Defined Networking (SDN)** with **Wireless Sensor Networks (WSN)** to create an intelligent healthcare monitoring system. It utilizes an SDN controller to manage real-time data from IoT sensors, prioritizing critical health alerts (Heart Rate, SpO2) and optimizing network traffic through Machine Learning-driven path selection.
